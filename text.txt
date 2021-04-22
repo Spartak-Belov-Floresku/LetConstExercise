@@ -1,4 +1,4 @@
 1. var can be reassigned & redeclared, let can be only reassed. Also let can not be hosted as we can do using var. Also var has a glob scope, let has only block scope.
-2. const can't redeclared or reassigned opposite to var,const has only block scope not a global as var.
-3. let can be reassigned, const can't redeclared or reassigned
+2. const can't be redeclared or reassigned opposite to var,const has only block scope not a global as var.
+3. let can be reassigned, const can't be redeclared or reassigned
 4. This is the way how JS works using var. var is shifted to the top of the scope where this var has been created. 
